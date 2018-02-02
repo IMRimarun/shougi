@@ -61,7 +61,6 @@ public class ClickJudgment : MonoBehaviour
                     AddSpace(transform.position + new Vector3(0, -0.5f, i));
                     AddSpace(transform.position + new Vector3(0, -0.5f, -i));
                     AddSpace(transform.position + new Vector3(-i, -0.5f, 0));
-
                 }
                 break;
 
